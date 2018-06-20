@@ -1,6 +1,1 @@
-Creating a new branch is quick AND simple.
-<<<<<<< HEAD
-add nexrt
-=======
-add confit
->>>>>>> feature
+66666666666666 aaaa
